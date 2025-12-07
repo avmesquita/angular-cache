@@ -1,0 +1,16 @@
+.spacer {
+  flex: 1 1 auto;
+}
+
+.sidenav-container {
+  height: calc(100vh - 64px); // 64px é a altura padrão da mat-toolbar
+}
+
+.sidenav {
+  width: 250px;
+}
+
+.content {
+  top: 0;
+  padding: 24px;
+}
